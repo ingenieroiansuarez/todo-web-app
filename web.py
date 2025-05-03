@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit import checkbox
 import functions
 
 todos = functions.get_todos()
